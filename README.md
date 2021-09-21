@@ -1,4 +1,4 @@
-# Slator
+# Slator [![Netlify Status](https://api.netlify.com/api/v1/badges/9d417845-464f-40ec-bcb7-39e8238edc46/deploy-status)](https://app.netlify.com/sites/slator/deploys)
 
 ## Project setup
 ```
