@@ -12,6 +12,7 @@
     "sass": "^1.41.1",
     "vue": "^3.0.0",
     "vue-class-component": "^8.0.0-0",
+    "vue-multiselect": "^3.0.0-alpha.2",
     "vue-router": "^4.0.0-0",
     "vuex": "^4.0.0-0"
   },
